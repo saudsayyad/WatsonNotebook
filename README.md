@@ -1,2 +1,2 @@
-# WatsonNotenook
+# WatsonNotebook
 IBM Watson Studio Notebooks
